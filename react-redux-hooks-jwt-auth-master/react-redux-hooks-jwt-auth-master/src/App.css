@@ -1,0 +1,159 @@
+.App {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+.card-container.card {
+  max-width: 500px !important;
+  padding: 40px 40px;
+  border: none;
+}
+
+.card {
+  background-color: transparent;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 20px;
+}
+
+body {
+  background: linear-gradient( rgb(86, 148, 219), White) fixed;
+}
+
+.gap {
+  
+  padding-left: 15px;
+}
+
+
+
+
+
+input[type=text],  
+input[type=password] {  
+    width: 50%;  
+    padding: 12px 40px;  
+    margin: 8px 0;  
+    display: inline-block;  
+    border: 1px solid #ccc;  
+    box-sizing: border-box;  
+}  
+  
+
+/* Set extra style for the cancel button*/  
+.container {  
+  padding: 16px;  
+}  
+
+.fontuser { 
+  position: relative; 
+} 
+
+.fontuser i{ 
+  position: absolute; 
+  right: 30px; 
+  top: 15px; 
+  color: dimgray; 
+} 
+
+
+.iconlogin { 
+  position: relative; 
+} 
+
+.iconlogin i{ 
+  position: absolute; 
+  right: 30px; 
+  top: 20px; 
+  color: gray; 
+} 
+
+
+.ellipsis {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/****** Product ******/
+
+.product-container.product {
+  max-width: 1400px !important;
+  padding-top: 20px;
+  border: none;
+  height: 1000px;
+}
+
+.product {
+  background-color: white;
+  padding-top: 20px;
+}
+
+
+.compare {
+  
+  width: 100%;
+  padding-top: 20px;
+  height: 640px;
+  background-color: white;
+  display: flex;
+	justify-content: center;
+}
+
+
+.circle {
+  background: darkblue;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+}
+
+
+.ii {
+  display: inline-block;
+  text-indent: -9999px;
+  width: 55px;
+  height: 55px;
+  vertical-align: middle;
+  border-radius: 50%;
+  background:rgb(66, 96, 131);
+}
+
+.iii {
+  display: inline-block;
+  text-indent: -9999px;
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  border-radius: 50%;
+  background:rgb(66, 96, 131);
+}
+
+.productdetail-container.productdetail {
+  max-width: 1700px !important;
+  padding-top: 15px;
+  border: none;
+  height: 700px;
+}
+
+.productdetail {
+  background-color: white;
+  padding-top: 20px;
+}
+
+.gap1 {
+  
+  padding-right: 30px;
+}
+
+.gap2 {
+  
+  padding-right: 10px;
+}
+
+

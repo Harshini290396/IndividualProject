@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'http://localhost:8080/springmvc_user_reg_login_war_exploded2/';
